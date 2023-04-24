@@ -69,4 +69,3 @@ resume = () =>{
   clearInterval(myTimer);
   myTimer = setInterval(function(){plusSlides(slideIndex)}, 5000);
 }
-
